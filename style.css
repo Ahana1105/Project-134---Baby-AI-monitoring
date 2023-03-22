@@ -1,0 +1,42 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+
+.heading
+{
+font-size: 38px;
+width: 100%;
+margin: 0px;
+font-family: fantasy;
+color:darkblue;
+letter-spacing: 2px;
+}
+
+#status
+{
+font-size: 20px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color:mediumvioletred;
+}
+
+canvas {
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 8px;
+    margin-top:40px;
+}
+
+
+#number_of_objects {
+    font-size:20px;
+    color:azure;
+}
+
+
+#start_model {
+    font-size:20px;
+    color:linen;
+}
